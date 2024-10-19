@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053063297433",
+    "project_id": "sapschool-d040d",
+    "storage_bucket": "sapschool-d040d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053063297433:android:1af66cf562ada64837bb08",
+        "android_client_info": {
+          "package_name": "com.example.demo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07vdFY8Kp0QM12FXWy14--q8jmjonvRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
